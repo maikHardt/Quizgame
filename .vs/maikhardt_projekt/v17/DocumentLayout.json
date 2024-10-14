@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MaikH\\OneDrive\\Desktop\\Quizgame-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{248BDD48-9BC5-4815-A3C4-7C9147D7E0F7}|maikhardt_projekt\\maikhardt_projekt.csproj|c:\\users\\maikh\\onedrive\\desktop\\quizgame-main\\maikhardt_projekt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248BDD48-9BC5-4815-A3C4-7C9147D7E0F7}|maikhardt_projekt\\maikhardt_projekt.csproj|solutionrelative:maikhardt_projekt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248BDD48-9BC5-4815-A3C4-7C9147D7E0F7}|maikhardt_projekt\\maikhardt_projekt.csproj|c:\\users\\maikh\\onedrive\\desktop\\quizgame-main\\maikhardt_projekt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{248BDD48-9BC5-4815-A3C4-7C9147D7E0F7}|maikhardt_projekt\\maikhardt_projekt.csproj|solutionrelative:maikhardt_projekt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248BDD48-9BC5-4815-A3C4-7C9147D7E0F7}|maikhardt_projekt\\maikhardt_projekt.csproj|c:\\users\\maikh\\onedrive\\desktop\\quizgame-main\\maikhardt_projekt\\datenbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248BDD48-9BC5-4815-A3C4-7C9147D7E0F7}|maikhardt_projekt\\maikhardt_projekt.csproj|solutionrelative:maikhardt_projekt\\datenbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248BDD48-9BC5-4815-A3C4-7C9147D7E0F7}|maikhardt_projekt\\maikhardt_projekt.csproj|c:\\users\\maikh\\onedrive\\desktop\\quizgame-main\\maikhardt_projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248BDD48-9BC5-4815-A3C4-7C9147D7E0F7}|maikhardt_projekt\\maikhardt_projekt.csproj|solutionrelative:maikhardt_projekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{248BDD48-9BC5-4815-A3C4-7C9147D7E0F7}|maikhardt_projekt\\maikhardt_projekt.csproj|c:\\users\\maikh\\onedrive\\desktop\\quizgame-main\\maikhardt_projekt\\fragehauptstadt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{248BDD48-9BC5-4815-A3C4-7C9147D7E0F7}|maikhardt_projekt\\maikhardt_projekt.csproj|solutionrelative:maikhardt_projekt\\fragehauptstadt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MaikH\\OneDrive\\Desktop\\Quizgame-main\\maikhardt_projekt\\Form1.cs",
+              "RelativeDocumentMoniker": "maikhardt_projekt\\Form1.cs",
+              "ToolTip": "C:\\Users\\MaikH\\OneDrive\\Desktop\\Quizgame-main\\maikhardt_projekt\\Form1.cs",
+              "RelativeToolTip": "maikhardt_projekt\\Form1.cs",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:17:40.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Datenbank.cs",
+              "DocumentMoniker": "C:\\Users\\MaikH\\OneDrive\\Desktop\\Quizgame-main\\maikhardt_projekt\\Datenbank.cs",
+              "RelativeDocumentMoniker": "maikhardt_projekt\\Datenbank.cs",
+              "ToolTip": "C:\\Users\\MaikH\\OneDrive\\Desktop\\Quizgame-main\\maikhardt_projekt\\Datenbank.cs",
+              "RelativeToolTip": "maikhardt_projekt\\Datenbank.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:17:33.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MaikH\\OneDrive\\Desktop\\Quizgame-main\\maikhardt_projekt\\Program.cs",
+              "RelativeDocumentMoniker": "maikhardt_projekt\\Program.cs",
+              "ToolTip": "C:\\Users\\MaikH\\OneDrive\\Desktop\\Quizgame-main\\maikhardt_projekt\\Program.cs",
+              "RelativeToolTip": "maikhardt_projekt\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:17:22.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrageHauptstadt.cs",
+              "DocumentMoniker": "C:\\Users\\MaikH\\OneDrive\\Desktop\\Quizgame-main\\maikhardt_projekt\\FrageHauptstadt.cs",
+              "RelativeDocumentMoniker": "maikhardt_projekt\\FrageHauptstadt.cs",
+              "ToolTip": "C:\\Users\\MaikH\\OneDrive\\Desktop\\Quizgame-main\\maikhardt_projekt\\FrageHauptstadt.cs",
+              "RelativeToolTip": "maikhardt_projekt\\FrageHauptstadt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:17:18.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\MaikH\\OneDrive\\Desktop\\Quizgame-main\\maikhardt_projekt\\Form1.cs",
+              "RelativeDocumentMoniker": "maikhardt_projekt\\Form1.cs",
+              "ToolTip": "C:\\Users\\MaikH\\OneDrive\\Desktop\\Quizgame-main\\maikhardt_projekt\\Form1.cs [Entwurf]",
+              "RelativeToolTip": "maikhardt_projekt\\Form1.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:16:17.141Z",
+              "EditorCaption": " [Entwurf]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

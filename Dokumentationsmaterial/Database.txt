@@ -1,0 +1,14 @@
+Spieler[Nr, Name, Highscore]
+Punkte[Nr, Date, Punkte, fk_PuSp]
+
+Kontinent[Nr, Name]
+
+Umrisse[Nr, Bild, Frage, Antwort, fk_Kontinent]
+Fragenländer[Nr, Bild, Frage, Antwort, fk_Kontinent]
+
+flaggenfarbe[Nr, Bild, Frage, Antwort, fk_Kontinent]
+flaggezuordnen[Nr, Bild, Frage, Antwort, fk_Kontinent]
+
+HauptstadtzuLand[Nr, Bild, Frage, Antwort, fk_Kontinent]
+LandzuHauptstadt[Nr, Bild, Frage, Antwort, fk_Kontinent]
+
